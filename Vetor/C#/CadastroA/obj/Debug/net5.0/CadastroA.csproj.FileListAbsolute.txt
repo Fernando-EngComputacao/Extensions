@@ -1,0 +1,16 @@
+C:\Users\ferna\Documents\VETOR\CadastroA\bin\Debug\net5.0\CadastroA.exe
+C:\Users\ferna\Documents\VETOR\CadastroA\bin\Debug\net5.0\CadastroA.deps.json
+C:\Users\ferna\Documents\VETOR\CadastroA\bin\Debug\net5.0\CadastroA.runtimeconfig.json
+C:\Users\ferna\Documents\VETOR\CadastroA\bin\Debug\net5.0\CadastroA.runtimeconfig.dev.json
+C:\Users\ferna\Documents\VETOR\CadastroA\bin\Debug\net5.0\CadastroA.dll
+C:\Users\ferna\Documents\VETOR\CadastroA\bin\Debug\net5.0\ref\CadastroA.dll
+C:\Users\ferna\Documents\VETOR\CadastroA\bin\Debug\net5.0\CadastroA.pdb
+C:\Users\ferna\Documents\VETOR\CadastroA\obj\Debug\net5.0\CadastroA.csproj.AssemblyReference.cache
+C:\Users\ferna\Documents\VETOR\CadastroA\obj\Debug\net5.0\CadastroA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\Documents\VETOR\CadastroA\obj\Debug\net5.0\CadastroA.AssemblyInfoInputs.cache
+C:\Users\ferna\Documents\VETOR\CadastroA\obj\Debug\net5.0\CadastroA.AssemblyInfo.cs
+C:\Users\ferna\Documents\VETOR\CadastroA\obj\Debug\net5.0\CadastroA.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Documents\VETOR\CadastroA\obj\Debug\net5.0\CadastroA.dll
+C:\Users\ferna\Documents\VETOR\CadastroA\obj\Debug\net5.0\ref\CadastroA.dll
+C:\Users\ferna\Documents\VETOR\CadastroA\obj\Debug\net5.0\CadastroA.pdb
+C:\Users\ferna\Documents\VETOR\CadastroA\obj\Debug\net5.0\CadastroA.genruntimeconfig.cache
