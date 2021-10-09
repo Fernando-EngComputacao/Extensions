@@ -1,0 +1,5 @@
+NOME = raw_input()
+SF = input()
+TO = input()
+VENDAS = SF + ((15 * TO)/100)
+print"TOTAL = R$ %.2lf" % (VENDAS)
